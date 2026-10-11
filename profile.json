@@ -1,0 +1,91 @@
+{
+  "name": "Malik Moiz Ahmad Awan",
+  "short_name": "Moiz",
+  "title": "Computer Science graduate | Web, Mobile & AI/ML Developer",
+  "chunks": [
+    {
+      "topic": "About",
+      "text": "Malik Moiz Ahmad Awan (Moiz) is a Computer Science graduate from the University of Gujrat, Pakistan. He is interested in web and mobile development and AI/ML integration."
+    },
+    {
+      "topic": "Education",
+      "text": "Moiz completed his BS in Computer Science at the University of Gujrat (UOG), Pakistan, in the 2022-2026 session."
+    },
+    {
+      "topic": "Career goals",
+      "text": "Moiz wants to work in the AI/ML field after graduating, and he also plans to continue with graduate studies abroad."
+    },
+    {
+      "topic": "Frontend skills",
+      "text": "Frontend: React, React Native, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap and Material UI."
+    },
+    {
+      "topic": "Backend skills",
+      "text": "Backend and data: Node.js, REST APIs, MongoDB, PostgreSQL and Firebase (Auth, Storage, Messaging). He has also integrated third-party APIs such as payments and maps."
+    },
+    {
+      "topic": "WordPress skills",
+      "text": "Moiz knows WordPress (themes and plugins), WooCommerce e-commerce websites, and website hosting and deployment."
+    },
+    {
+      "topic": "Programming languages",
+      "text": "Languages: JavaScript, TypeScript and C++ (OOP and data structures and algorithms)."
+    },
+    {
+      "topic": "AI skills",
+      "text": "AI/ML experience: integrated the Google Gemini API for AI consultation and CNN-based image detection (TensorFlow / Teachable Machine) in PET360. Also uses AI coding tools such as GitHub Copilot, Claude Code and Cursor in daily development."
+    },
+    {
+      "topic": "Projects overview",
+      "text": "Moiz's projects: PET360 (AI pet care app, Final Year Project), Cinepax Pro (cinema ticket booking web app), Coffee Shop Management System (C++ OOP and DSA), Resume Chatbot (Python AI), and the startup Blissful Art. Ask about any of them for details."
+    },
+    {
+      "topic": "Project PET360",
+      "text": "PET360 (Your Pet, Our Care) is Moiz's Final Year Project, a cross-platform pet care app with AI consultation, CNN-based skin disease detection, veterinary appointment scheduling, a marketplace and e-commerce. He was Frontend Developer and Documentation Lead. Stack: React Native, React.js admin panel, Node.js, MongoDB, Firebase, Gemini API, TensorFlow, Figma."
+    },
+    {
+      "topic": "Achievement",
+      "text": "PET360 was considered a unique idea and the team ranked first in their Final Year Project batch."
+    },
+    {
+      "topic": "Project Cinepax Pro",
+      "text": "Cinepax Pro is a cinema ticket booking web app that Moiz built solo using HTML5, CSS3 and JavaScript."
+    },
+    {
+      "topic": "Project Coffee Shop",
+      "text": "Coffee Shop Management System is a C++ console project using OOP (abstraction, inheritance, polymorphism, templates) and DSA (BST, linked list, queue, stack, hash table, merge sort), with billing, loyalty points and stock tracking."
+    },
+    {
+      "topic": "Project Resume Chatbot",
+      "text": "Resume Chatbot is this Python AI project. It answers questions about Moiz using TF-IDF retrieval, with an optional Claude API mode for natural answers, and a Streamlit chat interface."
+    },
+    {
+      "topic": "Experience Nerds Studio",
+      "text": "Moiz did an internship at Nerds Studio in Full-Stack Web Development from June to August 2025, working with React.js and Firebase."
+    },
+    {
+      "topic": "Startup Blissful Art",
+      "text": "Moiz co-founded Blissful Art under NIC Cohort 6 at the Business Incubation Centre of UOG (May to October 2024) and worked as Marketing Manager, handling social media and marketing."
+    },
+    {
+      "topic": "Leadership",
+      "text": "Moiz served as Project Manager of the Hayatiyan Computing Society at the University of Gujrat."
+    },
+    {
+      "topic": "Location",
+      "text": "Moiz is from Gujrat, Punjab, Pakistan."
+    },
+    {
+      "topic": "Contact",
+      "text": "Contact Moiz: Email: your-email@example.com | LinkedIn: linkedin.com/in/your-profile | GitHub: github.com/your-username"
+    }
+  ],
+  "suggested_questions": [
+    "Who is Moiz?",
+    "What are his skills?",
+    "Tell me about PET360",
+    "What projects has he built?",
+    "Does he have work experience?",
+    "How can I contact him?"
+  ]
+}
